@@ -1,4 +1,4 @@
-package com.example.Track;
+package com.example.Greeting;
 
 public class User {
 	String user;

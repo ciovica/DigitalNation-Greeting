@@ -1,4 +1,4 @@
-package com.example.Track.controller;
+package com.example.Greeting.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.example.Track.TrackApplication.Greeting;
+import com.example.Greeting.GreetingApplication.Greeting;
 
 @RestController
 public class GreetingController {
